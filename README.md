@@ -1,5 +1,5 @@
-# Chrome-Extentions-POC
-Created a POC for chrome extension where I created a chrome extension which on open a pop up with button which will redirect to my linked in profile.
+# Chrome Extentions POC React.js
+Created a POC for chrome extension in React.js where I created a chrome extension which on open a pop up with button which will redirect to my linked in profile.
 
 
 # React + Vite
