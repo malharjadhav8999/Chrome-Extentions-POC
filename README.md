@@ -1,3 +1,7 @@
+# Chrome-Extentions-POC
+Created a POC for chrome extension where I created a chrome extension which on open a pop up with button which will redirect to my linked in profile.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
